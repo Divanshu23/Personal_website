@@ -23,7 +23,7 @@ const data = [
     link: 'https://github.com/Divanshu23/StreamExpert',
     image: '/images/streamExpert.png',
     date: '2020 August',
-    desc: 'A clone of Twitch.tv using React and Redux fremeworks. Implemented OAuth authentication using google services.'
+    desc: 'A clone of Twitch.tv using React and Redux frameworks. Implemented OAuth authentication using google services.'
     + ' The user is able to create, read(watch), update, delete the streams (CRUD). Software Architectural Design followed- Representational state transfer (REST).'
   }
 ];

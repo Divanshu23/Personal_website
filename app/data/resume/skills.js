@@ -107,7 +107,7 @@ export const skills = [
   {
     title: 'Redux',
     compentency: 1,
-    category: ['Javascript','Web Development'],
+    category: ['Javascript','Web Development','Frameworks'],
   },
   {
     title: 'Agile Scrum Methodology',
@@ -122,6 +122,6 @@ export const skills = [
   {
     title: 'Trello',
     compentency: 1,
-    category: ['Other'],
+    category: ['Tools'],
   },
 ];

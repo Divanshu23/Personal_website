@@ -10,7 +10,7 @@ const Nav = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src='' alt="" />
+        <img src='/images/photo.jpg' alt="" />
       </Link>
       <header>
         <h2>Divanshu Sharma</h2>
