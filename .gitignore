@@ -43,3 +43,6 @@ tmp/
 
 # Nohup
 nohup.out
+
+# Local Netlify folder
+.netlify

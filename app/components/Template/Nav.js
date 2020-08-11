@@ -29,7 +29,7 @@ const Nav = () => (
       </p>
       <ul className="actions">
         <li>
-          {window.location.pathname !== `${BASE_PATH}/resume` ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
+          {window.location.pathname !== `${BASE_PATH}/resume` ? <Link to="/resume" className="button">Not Enough? Clicke here for more!</Link> : <Link to="/about" className="button">Fun Stuff about me!</Link>}
         </li>
       </ul>
     </section>
@@ -44,9 +44,9 @@ const Nav = () => (
           </li>
         ))}
       </ul>
-      <p className="copyright">&copy; Divanshu Sharma <Link to="/">Add domain name</Link>.</p>
+      <p className="copyright">&copy; Divanshu Sharma.</p>
     </section>
   </section>
 );
-
+//TODO: Add thus in front of the name at the bottom:<Link to="/">Add domain name</Link>
 export default Nav;

@@ -54,11 +54,6 @@ export const skills = [
     category: ['Web Development', 'Databases'],
   },
   {
-    title: 'SQLite3',
-    compentency: 4,
-    category: ['Web Development', 'Databases'],
-  },
-  {
     title: 'Firebase',
     compentency: 4,
     category: ['Web Development', 'Databases'],
